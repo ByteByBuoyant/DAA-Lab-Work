@@ -1,6 +1,5 @@
-# Week 2
+# DAA Lab Work
 
-Algorithms covered:
-- Triplet Sum (Two Pointer Technique)
-- First and Last Occurrence of an Element (Binary Search)
+ Everything done in WEEK 1 - WEEK 7
+
 
